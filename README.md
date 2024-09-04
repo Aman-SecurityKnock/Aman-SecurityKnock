@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ### I'm Aman
 
-Cyber Security Researcher | Red Team Expert |
+Cybersecurity Enthusiast | Cyber Security Researcher | Red Team Expert | Lifelong Learner
 
 <br>
 
@@ -25,6 +25,20 @@ Cyber Security Researcher | Red Team Expert |
 
 </br>
 
+# Welcome to my corner of the digital realm! 👋 
+As a passionate cybersecurity professional, I’m constantly exploring the fascinating world of IT and security.
+Here’s what you’ll find in my GitHub repository:
 
+# Tools-
+Curated scripts, utilities, and security tools—my trusty companions in the battle against threats.
+
+# Techniques-
+Notes on the latest attack vectors, defense strategies, and ethical hacking techniques.
+
+# Learnings-
+Discoveries, aha moments, and lessons from the ever-evolving cybersecurity landscape.
+#
+
+Feel free to explore, contribute, and connect! Let’s secure the bits and bytes together. 🛡️🚀
 
 ##
